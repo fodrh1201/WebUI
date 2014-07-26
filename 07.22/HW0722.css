@@ -1,0 +1,18 @@
+#container {
+	width: 400px;
+	height: 10000px;
+	border: 1px solid red;
+	margin: 0px auto;
+	border: 1px dashed #333;
+
+}
+
+li
+{
+	color: blue;
+}
+
+ul
+{
+	list-style: none;
+}
